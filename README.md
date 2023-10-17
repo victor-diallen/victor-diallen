@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Scientist & Mechanical Engineer
 ------------------------------------
 
+I thoroughly enjoy working on experimental applications and projects in fields such as supervised and unsupervised machine learning, business analytics and data visualization.
+
 - Mechanical engineer graduated from UFPE (Universidade Federal de Pernambuco) 
 - Post-graduated in Data Science and Artificial Intelligence from UNINTER
 - Data Science Training Program from Data Science Academy
-
-I thoroughly enjoy working on experimental applications and projects in fields such as supervised and unsupervised machine learning, business analytics and data visualization.
 
 *   🌍  I'm based in Brazil
 *   ✉️  You can contact me at [victordiallena@gmail.com](mailto:victordiallena@gmail.com)
