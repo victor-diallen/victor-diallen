@@ -1,10 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Victor Diallen
+Hi ![] (https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Victor Diallen
 ======================================================================================================================================
 
 Data Scientist & Mechanical Engineer
 ------------------------------------
 
-- I'm a mechanical engineer graduated from UFPE (Universidade Federal de Pernambuco) 
+- Mechanical engineer graduated from UFPE (Universidade Federal de Pernambuco) 
 - Post-graduated in Data Science and Artificial Intelligence from UNINTER
 - Data Science Training Program from Data Science Academy
 
