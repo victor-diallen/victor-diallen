@@ -10,8 +10,6 @@ I thoroughly enjoy working on experimental applications and projects in fields s
 - Post-graduated in Data Science and Artificial Intelligence from UNINTER
 - Data Science Training Program from Data Science Academy
 
-*   🌍  I'm based in Brazil
-*   ✉️  You can contact me at [victordiallena@gmail.com](mailto:victordiallena@gmail.com)
 
 ### Skills 
 <p align="left">
