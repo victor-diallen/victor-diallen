@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Victor Diallen
 ======================================================================================================================================
 
-Data Scientist & Mechanical Engineer
+Data Scientist, Data Analyst & Mechanical Engineer
 ------------------------------------
 
 I thoroughly enjoy working on experimental applications and projects in fields such as supervised and unsupervised machine learning, business analytics and data visualization.
