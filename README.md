@@ -40,3 +40,5 @@ I thoroughly enjoy working on experimental applications and projects in fields s
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
 </picture>
 </a></p>
+
+Feel free to checkout my portfolio repository right here on GitHub and my portfolio website https://victordiallen.wixsite.com/portfolio :)
